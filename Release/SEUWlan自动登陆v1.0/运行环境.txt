@@ -1,2 +1,2 @@
-.NET 4.0 ��ܣ���
-Win7 �� Win8 ϵͳ
+﻿.NET 4.0 可通过该链接下载（https://raw.githubusercontent.com/elitezhe/SEUWlanAutoLog/master/Release/prerequisite/dotNetFx40_Full_x86_x64.exe）
+Win7 或 Win8
