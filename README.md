@@ -1,3 +1,7 @@
+A new version with more easy-to-use features is online on https://github.com/elitezhe/SEUWlanAutoLogin.
+This is version will no longer be updated.
+
+
 # SEUWlanAutoLog
 For Southeast University campus network authentication.
 
